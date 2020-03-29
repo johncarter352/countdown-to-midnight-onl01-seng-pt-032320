@@ -1,4 +1,4 @@
-def countdown(number)
+def year_count(number)
   number = 5
   while number < 0
   puts "{number} SECOND(S)"
